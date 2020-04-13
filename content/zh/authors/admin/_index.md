@@ -21,8 +21,8 @@ organizations:
 bio: It's good to be weird.
 
 interests:
-- Emotional Landscape
-- Social Sensing
+- 情绪景观
+- 社会感知
 
 education:
   courses:
