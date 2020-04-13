@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "研究成果"
-subtitle = ""
+subtitle = "同行评审研究论文"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
