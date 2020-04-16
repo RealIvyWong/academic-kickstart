@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Quantifying the bias in place emotion extracted from photos on social networking sites: A case study on a university campus
+AU  - Huang, Yingjing
+AU  - Li, Jun
+AU  - Wu, Guofeng
+AU  - Fei, Teng
+JO  - Cities
+VL  - 102
+SP  - 102719
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0264-2751
+DO  - https://doi.org/10.1016/j.cities.2020.102719
+UR  - http://www.sciencedirect.com/science/article/pii/S0264275119312818
+KW  - Place emotion
+KW  - Affective computing
+KW  - User-generated content
+KW  - Weibo
+AB  - Various fields have widely used place emotion extracted from social networking sites (SNS) information in recent years. However, the emotional information may contain biases as users are a particular subset of the whole population. This research studies whether there are significant differences between place emotion extracted from SNS and the place in-situ (a campus of Wuhan University). Two datasets from different sources, Weibo (a platform similar to twitter) and in-situ cameras, are collected over the same time periods in the same geographical range. By utilizing online cognitive services on the photos collected, the diversity of people with a recognizable face in terms of age, gender, and emotions are determined. The results suggest that there are significant differences in place emotion extracted from Weibo and in-situ. Furthermore, the pattern of differences varies among diverse demographic groups. This paper quantitatively contrasts place emotion extracted from SNS and the place in-situ, which can help researchers achieve a more profound understanding of human behavior differences between online and offline place emotion. This research also provides a theoretical basis to calibrate the emotion metrics obtained from SNS facial expressions on future place emotion studies.
+ER  - 
