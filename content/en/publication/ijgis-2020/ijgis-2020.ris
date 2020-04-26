@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+TY  - JOUR
+T1  - Emotional habitat: mapping the global geographic distribution of human emotion with physical environmental factors using a species distribution model
+AU  - Li, Yizhuo
+AU  - Fei, Teng
+AU  - Huang, Yingjing
+AU  - Li, Jun
+AU  - Li, Xiang
+AU  - Zhang, Fan
+AU  - Kang, Yuhao
+AU  - Wu, Guofeng
+Y1  - 2020/04/24
+PY  - 2020
+N1  - doi: 10.1080/13658816.2020.1755040
+DO  - 10.1080/13658816.2020.1755040
+T2  - International Journal of Geographical Information Science
+JF  - International Journal of Geographical Information Science
+JO  - International Journal of Geographical Information Science
+SP  - 1
+EP  - 23
+PB  - Taylor & Francis
+AB  - ABSTRACTHuman emotion is an intrinsic psychological state that is influenced by human thoughts and behaviours. Human emotion distribution has been regarded as an important part of emotional geography research. However, it is difficult to form a global scaled map reflecting human emotions at the same sampling density because various emotional sampling data are usually positive occurrences without absence data. In this study, a methodological framework for mapping the global geographic distribution of human emotion is proposed and applied, combining a species distribution model with physical environment factors. State-of-the-art affective computing technology is used to extract human emotions from facial expressions in Flickr photos. Various human emotions are considered as different species to form their ?habitats? and predict the suitability, termed as ?Emotional Habitat?. To our knowledge, this framework is the first method to predict emotional distribution from an ecological perspective. Different geographic distributions of seven dimensional emotions are explored and depicted, and emotional diversity and abnormality are detected at the global scale. These results confirm the effectiveness of our framework and offer new insights to understand the relationship between human emotions and the physical environment. Moreover, our method facilitates further rigorous exploration in emotional geography and enriches its content.
+SN  - 1365-8816
+M3  - doi: 10.1080/13658816.2020.1755040
+UR  - https://doi.org/10.1080/13658816.2020.1755040
+ER  - 
+0
+
