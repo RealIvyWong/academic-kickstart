@@ -1,0 +1,22 @@
+TY  - EJOU
+AU  - Huang, Yingjing
+AU  - Fei, Teng
+AU  - Kwan, Mei-Po
+AU  - Kang, Yuhao
+AU  - Li, Jun
+AU  - Li, Yizhuo
+AU  - Li, Xiang
+AU  - Bian, Meng
+TI  - GIS-Based Emotional Computing: A Review of Quantitative Approaches to Measure the Emotion Layer of Human–Environment Relationships
+T2  - ISPRS International Journal of Geo-Information
+
+PY  - 2020
+VL  - 9
+IS  - 9
+SN  - 2220-9964
+
+AB  - In recent years, with the growing accessibility of abundant contextual emotion information, which is benefited by the numerous georeferenced user-generated content and the maturity of artificial intelligence (AI)-based emotional computing technics, the emotion layer of human&ndash;environment relationship is proposed for enriching traditional methods of various related disciplines such as urban planning. This paper proposes the geographic information system (GIS)-based emotional computing concept, which is a novel framework for applying GIS methods to collective human emotion. The methodology presented in this paper consists of three key steps: (1) collecting georeferenced data containing emotion and environment information such as social media and official sites, (2) detecting emotions using AI-based emotional computing technics such as natural language processing (NLP) and computer vision (CV), and (3) visualizing and analyzing the spatiotemporal patterns with GIS tools. This methodology is a great synergy of multidisciplinary cutting-edge techniques, such as GIScience, sociology, and computer science. Moreover, it can effectively and deeply explore the connection between people and their surroundings with the help of GIS methods. Generally, the framework provides a standard workflow to calculate and analyze the new information layer for researchers, in which a measured human-centric perspective onto the environment is possible.
+KW  - human–environment relationship
+KW  - collective emotion
+KW  - GIS-based emotional computing
+DO  - 10.3390/ijgi9090551
