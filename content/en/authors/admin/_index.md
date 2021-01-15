@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: M.S in Geographic Information Science
+  - course: M.A. in Geographic Information Science
     institution: Wuhan University
     year: 2018/06 - 
-  - course: B.S in Geography Science
+  - course: B.S. in Geography Science
     institution: Wuhan University
     year: 2013/09 - 2017/06
 
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am Yingjing Huang (Ivy Wong), a M.S student in Geographic Information Science (GIS) at the [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University, supervised by [Dr. Teng Fei](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn). I got bachelor's degree from the Department of Geographic Science, [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University.
+I am Yingjing Huang (Ivy Wong), a M.A. student in Geographic Information Science (GIS) at the [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University, supervised by [Dr. Teng Fei](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn). I got bachelor's degree from the Department of Geographic Science, [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University.
 
 Meanwhile, I write some code out of interest including machine learning, front end, and so on. More info can be found in my [GitHub](https://github.com/RealIvyWong).
 
