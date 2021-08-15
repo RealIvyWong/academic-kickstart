@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduate in GIS
+role: Doctoral candidate in GIS
 
 # Organizations/Affiliations
 organizations:
-- name: Wuhan University
+- name: Peking University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Geographic Information Science
+    institution: Peking University
+    year: 2021/09 - 
   - course: M.A. in Geographic Information Science
     institution: Wuhan University
-    year: 2018/06 - 
+    year: 2018/09 - 2021/06
   - course: B.S. in Geography Science
     institution: Wuhan University
     year: 2013/09 - 2017/06
@@ -67,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am Yingjing Huang (Ivy Wong), a M.A. student in Geographic Information Science (GIS) at the [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University, supervised by [Dr. Teng Fei](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn). I got bachelor's degree from the Department of Geographic Science, [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University.
+I am Yingjing Huang (Ivy Wong), a doctoral student in Geographic Information Science at Peking University. I got master's degree from  the [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University, supervised by [Dr. Teng Fei](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn). I got bachelor's degree from the Department of Geographic Science, [School of Resource and Environmental Sciences](http://sres.whu.edu.cn/) , Wuhan University.
 
 Meanwhile, I write some code out of interest including machine learning, front end, and so on. More info can be found in my [GitHub](https://github.com/RealIvyWong).
 

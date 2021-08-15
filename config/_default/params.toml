@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "129 Luoyu Road", city = "Wuhan", region = "Hubei", postcode = "430079", country = "China", country_code = "CN"}
+address = {street = "No.5 Yiheyuan Road Haidian District", city = "Beijing", region = "", postcode = "100871", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.529", longitude = "114.355734"}
+coordinates = {latitude = "39.65", longitude = "117.933334"}
 
 # Directions for visitors to locate you.
 directions = ""

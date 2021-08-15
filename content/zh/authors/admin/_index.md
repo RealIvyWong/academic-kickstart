@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: 地图学与地理信息系统硕士研究生
+role: 地图学与地理信息系统博士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: 武汉大学
+- name: 北京大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
+  - course: 地图学与地理信息系统 博士
+    institution: 北京大学
+    year: 2021/09 - 
   - course: 地图学与地理信息系统 硕士
     institution: 武汉大学
-    year: 2018/09 - 
+    year: 2018/09 - 2021/06
   - course: 地理科学（基地班） 学士
     institution: 武汉大学
     year: 2013/09 - 2017/06
@@ -66,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-我是黄颖菁，武汉大学 [资源与环境科学学院](http://sres.whu.edu.cn/) 的地图学与地理信息系统硕士生，导师是 [费腾老师](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn)。 我在武汉大学 [资源与环境科学学院](http://sres.whu.edu.cn/) 的地理科学基地班取得了学士学位。
+我是黄颖菁，北京大学的地图学与地理信息系统博士研究生。我在武汉大学 [资源与环境科学学院](http://sres.whu.edu.cn/) 的地图学与地理信息系统专业取得了硕士学位，导师是[费腾](http://faculty.whu.edu.cn/show.jsp?n=Fei%20Teng&lang=cn)博士。 我在武汉大学 [资源与环境科学学院](http://sres.whu.edu.cn/) 的地理科学基地班取得了学士学位。
 
 同时，我出于兴趣也在写一些机器学习，前端之类的代码。更详细的信息可以在我的 [GitHub](https://github.com/RealIvyWong)上看到。
 
