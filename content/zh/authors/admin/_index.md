@@ -21,8 +21,9 @@ organizations:
 bio: It's good to be weird.
 
 interests:
-- 情绪景观
+- 地理信息科学
 - 社会感知
+- 场所情绪
 
 education:
   courses:
