@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "huangyingjing@whu.edu.cn"
+email = "huangyingjing@stu.pku.edu.cn"
 phone = ""
 
 # Address
@@ -90,7 +90,7 @@ address = {street = "No.5 Yiheyuan Road Haidian District", city = "Beijing", reg
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.991433344075865", longitude = "116.31476157862548"}
+coordinates = {latitude = "39.99179792703746", longitude = "116.31436743545824"}
 
 # Directions for visitors to locate you.
 directions = ""
